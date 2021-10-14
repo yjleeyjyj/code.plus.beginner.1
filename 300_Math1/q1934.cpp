@@ -1,1 +1,12 @@
-// 나중에 한 번 풀어보시오~~~~~
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main(void){
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    
+    
+}
